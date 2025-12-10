@@ -1,5 +1,6 @@
 # SQL
 This repository contains multiple SQL modules designed for hands-on learning and practice. 
+
 Each module focuses on a specific SQL topic, making it easy for beginners and intermediate learners 
 to understand and practice queries step by step.
 
