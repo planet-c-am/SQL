@@ -1,0 +1,28 @@
+This repository contains a complete set of SQL practice questions covering all essential topics required to build a strong foundation in relational database queries. 
+Each section includes practical examples and real-world problems designed to help beginners and intermediate learners improve their SQL skills.
+
+Topics Covered:
+
+-Basic SELECT & WHERE
+-DISTINCT
+-COUNT Function
+-SUM Function
+-AVG Function
+-MIN / MAX Function
+-GROUP BY Practice
+-HAVING Clause Practice
+-ORDER BY Practice
+ 
+
+Purpose:
+
+The goal of this repo is to provide a hands-on learning environment where learners 
+can practice SQL queries step by step. Each question includes a clear problem statement 
+and the corresponding SQL solution, making it easy for anyone to understand and apply 
+the concepts.
+
+Audience:
+
+- Beginners who are learning SQL fundamentals
+- Students preparing for interviews
+- Anyone who wants to practice writing SQL queries on a sample dataset
